@@ -2,7 +2,7 @@
 <html>
 <head>
 
-<title>Hard drive</title>
+<title>Monitor</title>
 
 <style>
 
@@ -222,9 +222,9 @@ li a:hover:not(.active) {
   </ul>
   
   <!-- nav -->
-
+  
     <br><br><br>
-    <h1 style="font-size: 35px; color:black;"><b>HARD DRIVE</b></h1>
+    <h1 style="font-size: 35px; color:black;"><b>MONITOR</b></h1>
     <br><br><br>
     
     <div style="margin:0 auto;">
@@ -232,7 +232,7 @@ li a:hover:not(.active) {
         <div style="background-color:rgb(255, 255, 255); margin:0 auto;">
             <center>
             <h3><b>Video</b></h3>
-            <iframe width="430" height="330" src="https://www.youtube.com/embed/vXpAsf7SJ3M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            <iframe width="430" height="330" src="https://www.youtube.com/embed/Ad5zmFk80lU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
             </center>
         </div>
 
@@ -242,10 +242,11 @@ li a:hover:not(.active) {
             <center>
             <h3><b>Step &nbsp;</b><button type="button" class="unstyled-button" onclick="myFunction()"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Magnifying_glass_icon.svg/1200px-Magnifying_glass_icon.svg.png" height="15px"></button></h3>
             <p class="left" id="step">
-            1. Unscrew and remove the sides of your computer’s case. Some have latches holding the sides in place, which must be pushed open. Make sure you have clear access to the motherboard’s SATA ports and hard disk bays. <br>
-            2. Place the SSD into its mounting bracket or a removable bay, line it up with the holes underneath, then screw it in. Position the mounting bracket into a spare 3.5-inch hard disk bay and secure it using holes at the side. <br>
-            3. Connect the L-shaped end of a SATA cable to the SSD, and the other end to a spare SATA port (SATA 6Gbps ports are blue). Connect a SATA power cable to the SSD. For a fresh Windows installation, disconnect any other hard disks inside your PC. <br>
-            4. Insert a USB or DVD stick ready with Windows 10 (see how to make one here) and switch the PC on. Press F12 or whatever the key is to see the boot menu and select the USB or DVD (see more on how to boot from USB). Now follow the instructions to install Windows 10 on the SSD. Once the installation is complete you can put other hard drives back in. <br>
+            1.Check the connections <br>
+            2.Duplicate or extended <br>
+            3.Fine tuning <br>
+            4.Getting the right resolution <br>
+
             </p>
             </center>
         </div>
@@ -254,11 +255,11 @@ li a:hover:not(.active) {
 
         <div style="background-color:rgb(255, 255, 255); margin:0 auto;">
             <center>
-            <h3><b>Buy hard drive for your PC</b></h3>
+            <h3><b>Buy monitor for your PC</b></h3>
             <h3><b>Scan the qr code to redirect to shopee store:</b></h3>
             <div class="container-fluid">
               <div class="text-center">
-                <img src="qrcode/qrcode2-harddrive.png" class="round">
+                <img src="qrcode/qrcode5-monitor.png" class="round">
               </div>
             </div>
             </center>

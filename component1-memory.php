@@ -219,9 +219,8 @@ li a:hover:not(.active) {
   <!-- nav -->
   
   <ul>
-    <li><a href="home.php">Home</a></li>
+    <li><a href="index.php">Home</a></li>
     <li><a href="contactus.php">Contact Us</a></li>
-    <li style="float:right"><a class="active" href="logout.php">Logout</a></li>
   </ul>
   
   <!-- nav -->
