@@ -1,6 +1,6 @@
 <?php
 
-echo "Hello Azure!";
+echo "Cloud Computing Lab 9";
 ?>
 
 <!DOCTYPE html>
