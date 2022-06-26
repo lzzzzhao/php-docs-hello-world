@@ -143,7 +143,7 @@ div {
     <!-- Memory -->
     <div class="row" style="margin:0 auto;">
       <div class="columnimage" style="background-color:rgb(255, 255, 255);">
-          <img src="https://pixfeeds.com/images/technology/storage/1280-471770087-memory-cards.jpg" style="height: 230px; width: 200px;">
+          <img src="https://www.technotification.com/wp-content/uploads/2021/02/technology-computer-chips-gigabyte-2048x1365.jpg" style="height: 230px; width: 200px;">
       </div>
       <div class="columninfo" style="background-color:rgb(255, 255, 255);">
         <h2 class="center">Memory</h2>
