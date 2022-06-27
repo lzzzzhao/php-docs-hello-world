@@ -1,6 +1,6 @@
 <?php
 
-echo "Cloud Computing Lab 9 PHP";
+echo "Cloud Computing Lab";
 ?>
 
 <!DOCTYPE html>
